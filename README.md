@@ -8,7 +8,6 @@ PDF text data extraction app that takes a PDF document as input and returns eith
 
 <img width="1536" height="1024" alt="8f30f1d1-7f64-4484-9e0b-37584fcba499" src="https://github.com/user-attachments/assets/83813121-4016-4038-ad19-d743741f099d" />
 
-![pdf_text_image](https://user-images.githubusercontent.com/50157142/214037439-448fafb8-5363-46cb-849e-6132f9bc0fb2.PNG)
 
 
 
