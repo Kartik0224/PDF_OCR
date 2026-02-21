@@ -1,9 +1,5 @@
 # PDF to Text
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nainiayoub/pdf-text-data-extractor/main/app.py)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nainiayoub.pdf-text-data-extractor)
-![forks badge](https://img.shields.io/github/forks/nainiayoub/pdf-text-data-extractor)
-![starts badge](https://img.shields.io/github/stars/nainiayoub/pdf-text-data-extractor?style=social)
-
 PDF text data extraction app that takes a PDF document as input and returns either a txt file that contains all pages or a compressed folder of txt files representing the document pages. OCR can also be enabled for scanned docoments.
 
 <img width="1536" height="1024" alt="8f30f1d1-7f64-4484-9e0b-37584fcba499" src="https://github.com/user-attachments/assets/83813121-4016-4038-ad19-d743741f099d" />
